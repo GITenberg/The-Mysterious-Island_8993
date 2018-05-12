@@ -1,4 +1,5 @@
 _repo: The-Mysterious-Island_8993
+_version: 0.1.0
 alternative_title: Île mystérieuse. English
 contributor:
   translator:
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2949'
     url: http://www.gutenberg.org/2009/agents/2949
     wikipedia: http://en.wikipedia.org/wiki/Stephen_William_White
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -33,6 +37,8 @@ description: "The Mysterious Island (French: L'Île mystérieuse) is a novel by 
   \ the influence on the novel of Robinson Crusoe and The Swiss Family Robinson. Verne\
   \ developed a similar theme in his later novel, Godfrey Morgan (French: L'École\
   \ des Robinsons, 1882).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8993#The-Mysterious-Island
 gutenberg_bookshelf:
 - Science Fiction
 - Movie Books
